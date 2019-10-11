@@ -51,3 +51,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # coffee-rails
 gem 'coffee-rails'
+
+# mysql2
+gem 'mysql2'
