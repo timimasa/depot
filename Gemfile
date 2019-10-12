@@ -54,3 +54,6 @@ gem 'coffee-rails'
 
 # mysql2
 gem 'mysql2'
+
+# ActiveModel Serializer XML
+gem 'activemodel-serializers-xml'
