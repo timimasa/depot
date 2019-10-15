@@ -58,3 +58,6 @@ gem 'mysql2'
 
 # ActiveModel Serializer XML
 gem 'activemodel-serializers-xml'
+
+# i18n-js
+gem 'i18n-js'
